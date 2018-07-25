@@ -14,7 +14,7 @@
 
 
 module TorqueBox
-  VERSION = '4.0.0.beta4.dev'
+  VERSION = '4.0.0.beta4.tik2.jruby9200'
   WUNDERBOSS_VERSION = '0.12.1'
   WILDFLY_VERSION = '10.0.0.Final'
 end
