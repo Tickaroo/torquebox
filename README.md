@@ -1,3 +1,16 @@
+This is a fork of 4.0.0.beta4.dev
+
+It contains the following changes:
+
+- fix building war with rake 1.16.1 (backwards compatible)
+- fix for Rails 5 Cache Store API (backwards compatible)
+- fix for JRuby 9.2.0.0 (NOT backwards compatible)
+
+
+
+-----------------------------------------
+
+
 # TorqueBox
 
 This is TorqueBox 4 and represents a substantial change in direction
